@@ -1,6 +1,8 @@
-# INTERFAZ DE NAVE ESPACTIAL 
+# Title
 
-# rersumen
+# rersumen (summary)
+
+# theory
 
 # montaje 
 
