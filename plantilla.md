@@ -8,6 +8,8 @@ Primero emos connectado las conexiones de 5v y de la tierra a el arduino,emos co
 
 Despues emos conetado al cátado de cada LED a la toma de tierra a traves de unresistercia de 220 ohmois seguidamente 
 
+para acavar conectamos los ánodos de los LEDs rojos a las cla
+
 # codido 
 
 ## variacions 
