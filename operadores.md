@@ -1,4 +1,4 @@
-# operadores 
+# operadores
 
 leer pinao ( analog read-0-1023)(8 bytes)
 
