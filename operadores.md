@@ -62,3 +62,18 @@ Da igual si la resistencia va detras p delante de LED. Contraemos 2 LEDs, uno al
 Al principio no funcionaba, por que si pones tilde no funciona
 
 ![imagen](https://user-images.githubusercontent.com/90753298/140055897-070f5dfd-bc74-4f35-a1bc-83daf181efa8.png)
+
+Este es el código:
+
+https://github.com/ANGEY33/Arduino/blob/main/Operadores1.ino.ino
+
+# Ejercicio 2 
+
+Encender los 2 LEDs si pulsamos cualquiera de los botones si no apagamos
+
+![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2012-52-32.png)
+
+Este es el código:
+
+https://github.com/ANGEY33/Arduino/blob/main/operadores2.ino.ino
+
