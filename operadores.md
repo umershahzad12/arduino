@@ -48,4 +48,4 @@ para poner uled necestamos uma resistencia de 220
 
 las de curpoazul hay que tener en clenta la paaridadiel led.
 
-la patamas corta va haciael gnd(ov)y la larga hacia 
+la patamas corta va haciael gnd(ov)y la larga hacia
