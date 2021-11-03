@@ -37,23 +37,28 @@ Digitalwrite(3,high);
 Digitalwrite(4,high);
 
 ejercicio
-vamos a colectar 2 botones y 2 leds hapemos diferentes programa con diferenta comportamientos 
+Vamos a conectsr 2 botones y 2 LEDs
 
-para polar un botón necesitaplos una resistenecia de 10000 (ahnios)
+Haremos diferentes programas con diferencias comportamientos.
 
-conectaremos;
-2 butones, una al pin2, pin 3
+Para poner un boton necesitamos poner una resistencia de 10000 (ohmnios), estas son las que tienen cuerpo beige y una linea naranja.
 
-para poner uled necestamos uma resistencia de 220
+Pin _____ Pulsasdor __ GND
 
-las de curpoazul hay que tener en clenta la paaridadiel led.
+5V _____ Resistencia 10k ohmnios
 
-la patamas corta va haciael gnd(ov)y la larga hacia
+Esquema de botón "Por defecto de arriba" o "Pulled - HIGH"
+
+Conectaremos 2 botónes. Uno al pin 2 y otro pin 3. Para poner un LED necesitamos una resistencia de 220 ohmnios las de cuerpo azul.
+
+Hay que tener en cuenta la polaridad del LED. La pata mas corta va hacia el GND (o 0V) y la larga hacia el voltaje.
+
+PIN -->---///---GND
 
 LED 220
 
-Ejercicio
+Da igual si la resistencia va detras p delante de LED. Contraemos 2 LEDs, uno al pin 4 y otro al pin 5.
 
-Encender los LEDS
-si pulsamos
-los 2 bottones
+Al principio no funcionaba, por que si pones tilde no funciona
+
+![imagen](https://user-images.githubusercontent.com/90753298/140055897-070f5dfd-bc74-4f35-a1bc-83daf181efa8.png)
