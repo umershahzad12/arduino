@@ -51,3 +51,9 @@ las de curpoazul hay que tener en clenta la paaridadiel led.
 la patamas corta va haciael gnd(ov)y la larga hacia
 
 LED 220
+
+Ejercicio
+
+Encender los LEDS
+si pulsamos
+los 2 bottones
