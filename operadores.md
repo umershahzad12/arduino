@@ -72,8 +72,3 @@ https://github.com/ANGEY33/Arduino/blob/main/Operadores1.ino.ino
 Encender los 2 LEDs si pulsamos cualquiera de los botones si no apagamos
 
 ![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2012-52-32.png)
-
-Este es el código:
-
-https://github.com/ANGEY33/Arduino/blob/main/operadores2.ino.ino
-
