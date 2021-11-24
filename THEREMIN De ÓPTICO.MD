@@ -1,1 +1,23 @@
 # THEREMIN ÓPTICO
+
+## primer projecto 
+
+## Explain 
+
+In the first project me and hanzla we did a circuit in which if we put hand on the sensor it stop 
+
+and if we take away hand from the sensor it starts working.
+
+### IMAGEN
+
+Aqui esta imagen de primer projecto
+
+![](https://github.com/Hanzla55/Arduino/blob/main/therminal%202(1).jpg?raw=true)
+
+### CODIGO
+
+
+## SEGUNDO PROJECTO
+
+
+In the second project 
