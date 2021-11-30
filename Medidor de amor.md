@@ -41,6 +41,8 @@ El siguiente bloque de código es el programa en sí, el cual comienza con la fu
 Aquí se usa una variable llamada Valor_del_Sensor en donde se guarda la lectura del 
 sensor.
 
+[Código](https://github.com/umershahzad12/arduino/blob/main/medidor%20de%20amor.ino)
+
 ``` C++
 
 const int sensorPin = A0;
