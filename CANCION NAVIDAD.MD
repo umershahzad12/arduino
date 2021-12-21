@@ -3,7 +3,7 @@
 
 ## RESUMEN
 
-I have done this project with umer 
+I have done this project with hanzla 
 
 in which we made a circuit to play
 
