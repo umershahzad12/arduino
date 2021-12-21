@@ -19,6 +19,10 @@ help of arduino.
 
 ![](https://github.com/Hanzla55/Arduino/blob/main/cancion%20navidad.jpg?raw=true)
 
+
+Código:
+
+``` C++
 int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
 bool play = false;
@@ -81,3 +85,5 @@ else{
 }
 }
  //vuelve al inicio del bucle
+
+```
